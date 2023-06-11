@@ -65,7 +65,7 @@ So what are you waiting for? Get "Loco" with Loco v2 and take your system manage
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]()
+[![Loco V2 Screenshot][product-screenshot]]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
