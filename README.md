@@ -136,5 +136,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/limitless-man/
 [product-screenshot]: images/screenshot.png
-[Yaml.org]: https://img.shields.io/badge/-YAML-000000?logo=YAML&logoColor=white&style=for-the-badge
-[Yaml-url]: https://yaml.org
+[Gnu.org]:  https://img.shields.io/badge/-Bash-000000?logo=GNU%20Bash&logoColor=4EAA25&style=for-the-badge
+[Bash-url]: https://www.gnu.org
