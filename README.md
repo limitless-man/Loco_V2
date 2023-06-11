@@ -135,6 +135,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [license-url]: https://github.com/limitless-man/Loco_V2/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/limitless-man/
-[product-screenshot]: Images/screenshot.png
+[product-screenshot]: Images/screenshot.jpg
 [Gnu.org]:  https://img.shields.io/badge/-Bash-000000?logo=GNU%20Bash&logoColor=4EAA25&style=for-the-badge
 [Bash-url]: https://www.gnu.org
